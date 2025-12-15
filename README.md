@@ -50,6 +50,8 @@ This project demonstrates **real-world SQL usage**, making it ideal for:
 | Payroll | Calculates final payroll amounts |
 
 ---
+## ER-DIAGRAM
+![ER Diagram](ER_Employees_Management_System_page-0001.jpg)
 
 ## 🧾 Complete Table Creation SQL Code
 ```sql
