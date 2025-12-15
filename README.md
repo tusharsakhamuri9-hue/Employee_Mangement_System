@@ -9,10 +9,9 @@ This system handles employee information, job roles, departments, qualifications
 
 # Employee Management System (SQL Project)
 
-## 📌 Short Description (≈200 characters)
+## 📌 Short Description
 A SQL-based Employee Management System that manages employee details, job roles, departments, qualifications, leaves, and payroll using a normalized relational database and analytical queries.
 
----
 
 ## 📖 Project Overview
 The **Employee Management System (EMS)** is a SQL project designed to efficiently manage employee-related data within an organization.  
@@ -23,7 +22,6 @@ This project demonstrates **real-world SQL usage**, making it ideal for:
 - Academic submissions  
 - GitHub portfolio projects  
 
----
 
 ## 🛠️ Technologies Used
 - SQL (MySQL / ANSI SQL)
@@ -49,7 +47,6 @@ This project demonstrates **real-world SQL usage**, making it ideal for:
 | Leaves | Maintains employee leave records |
 | Payroll | Calculates final payroll amounts |
 
----
 ## ER-DIAGRAM
 ![ER Diagram](ER_Employees_Management_System_page-0001.jpg)
 
